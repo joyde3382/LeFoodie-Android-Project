@@ -1,0 +1,1 @@
+Personally had issues with installing signed apk, while others in group didn't have issues. Therefor, the apk with debug-key is appended as well.
